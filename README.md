@@ -3,13 +3,15 @@ MediSphere AI
 
 MediSphere AI is a healthcare intelligence platform that uses Agentic AI and RAG (Retrieval-Augmented Generation) to provide contextual healthcare insights and patient risk analysis.
 
-Features
+Features:
 AI-powered patient risk analysis
 RAG-based medical information retrieval
 Healthcare assistant for symptom understanding
 Real-time clinical insight generation
-Interactive Streamlit dashboard
-Tech Stack
+Interactive Streamlit 
+
+
+Tech Stack:
 Python
 Streamlit
 Machine Learning
